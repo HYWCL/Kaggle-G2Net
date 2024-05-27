@@ -8,10 +8,10 @@
 <br>귀하의 작업은 과학자들이 새로운 것을 발견하는 데 기여할 것입니다.
 
 ## 대회 설명
-<img src="https://github.com/HYWCL/Kaggle-G2Net/assets/86766552/a11dc95a-3067-4fce-be57-939465817899" width="450" height="300"/>
-<img src="https://github.com/HYWCL/Kaggle-G2Net/assets/86766552/87511d04-988b-43c3-afb3-793e9ecd2b8a" width="450" height="300"/>
+<img src="https://github.com/HYWCL/Kaggle-G2Net/assets/86766552/a11dc95a-3067-4fce-be57-939465817899" width="500" height="300"/>
+<img src="https://github.com/HYWCL/Kaggle-G2Net/assets/86766552/87511d04-988b-43c3-afb3-793e9ecd2b8a" width="500" height="300"/>
 
-왼쪽부터 순서대로 노이즈가 없는 데이터, 노이즈가 존재하는 데이터입니다. <br>
+위부터 순서대로 노이즈가 없는 데이터, 노이즈가 존재하는 데이터입니다. <br>
 이미지 모델을 구축하고 훈련 데이터로 노이즈가 존재하는 데이터를 넣어 중력파 신호를 찾는 게 목표인 대회입니다.
 
 ## 코드 설명
